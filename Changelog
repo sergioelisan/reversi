@@ -1,0 +1,20 @@
+CHANGELOG
+---------
+
+=> Versao 1.1.1 (abr/2011)
+
+    - Pequena atualizacao, com nova tela de entrada
+    - O Cronometro agora esta fazendo contagem regressiva
+
+=> Versao 1.1 (dez/2010)
+
+	- Tela de abertura, com saudação e apresentação do jogo
+	- Melhora no uso do processador, com limites em 10 quadros por segundo
+	- Reestruturação do código, que separa as funcoes de som e imagem da logica do jogo
+	- Jogo em tela cheia
+	- Tela de opcoes
+	- Tela de Ajuda
+	- Novo Menu principal
+	- Nova trilha sonora
+	
+AUTOR: Sergio

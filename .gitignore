@@ -1,0 +1,6 @@
+*.pyc
+*.pywc
+__pycache__/
+
+build/
+dist/
